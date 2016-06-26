@@ -219,6 +219,8 @@ header .header-content .header-content-inner p {
 .portfolio-box img {
   width: 100%;
   display: block;
+  /*-webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
+  /*filter: grayscale(100%);*/
 }
 .portfolio-box .portfolio-box-caption {
   color: white;
