@@ -214,13 +214,12 @@ header .header-content .header-content-inner p {
   position: relative;
   display: block;
   max-width: 650px;
+  max-height: 650px;
   margin: 0 auto;
 }
 .portfolio-box img {
   width: 100%;
   display: block;
-  /*-webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
-  /*filter: grayscale(100%);*/
 }
 .portfolio-box .portfolio-box-caption {
   color: white;
