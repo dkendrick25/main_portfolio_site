@@ -1,6 +1,4 @@
-
-html,
-body {
+html, body {
   height: 100%;
   width: 100%;
 }
@@ -26,12 +24,7 @@ a:hover,
 a:focus {
   color: #a17Cff;
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 p {
