@@ -139,9 +139,9 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../images/header.jpg');
+  background-image: url('../images/photo4.jpg');
   text-align: center;
-  color: white;
+  color: rgba(59, 59, 59, 0.9);
 }
 header .header-content {
   position: relative;
@@ -159,9 +159,11 @@ header .header-content .header-content-inner hr {
   margin: 30px auto;
 }
 header .header-content .header-content-inner p {
-  font-weight: 300;
-  color: rgba(255, 255, 255, 0.7);
-  font-size: 16px;
+  font-weight: 600;
+  /*color: rgba(255, 255, 255, 0.7);*/
+  color: rgba(68, 68, 68, 0.9);
+  letter-spacing: .15em;
+  font-size: 18px;
   margin-bottom: 50px;
 }
 @media (min-width: 768px) {
